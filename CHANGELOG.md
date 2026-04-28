@@ -1,3 +1,9 @@
+## [2.1.0](https://github.com/disafronov/semantic-basic-template/compare/v2.0.0...v2.1.0) (2026-04-28)
+
+### Features
+
+* validate release ([414ec38](https://github.com/disafronov/semantic-basic-template/commit/414ec38d1eacc32717d3d0238be9967c05f48aa6))
+
 ## [2.0.0](https://github.com/disafronov/semantic-basic-template/compare/v1.1.0...v2.0.0) (2026-04-27)
 
 ### ⚠ BREAKING CHANGES
