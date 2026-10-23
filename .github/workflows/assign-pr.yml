@@ -10,6 +10,10 @@ name: Assign pull request
 permissions:
   pull-requests: write
 
+concurrency:
+  group: audit-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   assign:
     name: Assign repository maintainer
