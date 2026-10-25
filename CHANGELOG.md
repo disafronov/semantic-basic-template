@@ -1,3 +1,9 @@
+## [2.2.5](https://github.com/disafronov/semantic-basic-template/compare/v2.2.4...v2.2.5) (2026-10-25)
+
+### Bug Fixes
+
+* **ci:** use environment for Git commit identity ([d56671e](https://github.com/disafronov/semantic-basic-template/commit/d56671e0eb3f32f167e3b125646a395d9093b5de))
+
 ## [2.2.4](https://github.com/disafronov/semantic-basic-template/compare/v2.2.3...v2.2.4) (2026-10-25)
 
 ### Bug Fixes
