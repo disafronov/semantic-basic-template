@@ -1,3 +1,9 @@
+## [2.2.0](https://github.com/disafronov/semantic-basic-template/compare/v2.1.2...v2.2.0) (2026-10-25)
+
+### Features
+
+* add release PR description workflow ([5c5b484](https://github.com/disafronov/semantic-basic-template/commit/5c5b484546a75e4b929b5e124bbf7b137f758d19))
+
 ## [2.1.0](https://github.com/disafronov/semantic-basic-template/compare/v2.0.0...v2.1.0) (2026-04-28)
 
 ### Features
