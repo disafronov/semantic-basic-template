@@ -1,3 +1,9 @@
+## [2.2.4](https://github.com/disafronov/semantic-basic-template/compare/v2.2.3...v2.2.4) (2026-10-25)
+
+### Bug Fixes
+
+* **ci:** use GitHub Actions as the committer ([bd10119](https://github.com/disafronov/semantic-basic-template/commit/bd101194a576ddd0783ddf5f95e333b6a442b8bf))
+
 ## [2.2.3](https://github.com/disafronov/semantic-basic-template/compare/v2.2.2...v2.2.3) (2026-10-25)
 
 ## [2.2.2](https://github.com/disafronov/semantic-basic-template/compare/v2.2.1...v2.2.2) (2026-10-25)
