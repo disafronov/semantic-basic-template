@@ -1,3 +1,9 @@
+## [2.2.6](https://github.com/disafronov/semantic-basic-template/compare/v2.2.5...v2.2.6) (2026-10-26)
+
+### Bug Fixes
+
+* keep template releases stable on main ([7b2e284](https://github.com/disafronov/semantic-basic-template/commit/7b2e284738b1f8886a98d53cd65909168ab0e16d))
+
 ## [2.2.5](https://github.com/disafronov/semantic-basic-template/compare/v2.2.4...v2.2.5) (2026-10-25)
 
 ### Bug Fixes
