@@ -1,3 +1,13 @@
+## [2.3.1](https://github.com/disafronov/semantic-basic-template/compare/v2.3.0...v2.3.1) (2026-10-27)
+
+### Bug Fixes
+
+* isolate PR assignment and document release workflows ([d2af076](https://github.com/disafronov/semantic-basic-template/commit/d2af0769d41d74270ed9b051ebbab2393a2a9a2d))
+
+### Code Refactoring
+
+* rely on bundled release configuration ([511c37c](https://github.com/disafronov/semantic-basic-template/commit/511c37c3ff76d99b1ad4fc32ee8ad5860de712fc))
+
 ## [2.3.0](https://github.com/disafronov/semantic-basic-template/compare/v2.2.6...v2.3.0) (2026-10-27)
 
 ### Features
