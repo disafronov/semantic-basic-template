@@ -1,3 +1,9 @@
+## [2.3.0](https://github.com/disafronov/semantic-basic-template/compare/v2.2.6...v2.3.0) (2026-10-27)
+
+### Features
+
+* support optional rc releases in shared semantic workflow ([8756778](https://github.com/disafronov/semantic-basic-template/commit/8756778f43956af9df7d68fd5085bb548bf936dc))
+
 ## [2.2.6](https://github.com/disafronov/semantic-basic-template/compare/v2.2.5...v2.2.6) (2026-10-26)
 
 ### Bug Fixes
