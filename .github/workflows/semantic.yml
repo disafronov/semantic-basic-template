@@ -48,7 +48,7 @@ jobs:
     concurrency:
       group: semantic-validate-${{ github.event.pull_request.number }}
       cancel-in-progress: true
-    # Runs when: pull_request targeting main
+    # Runs when: pull_request targeting main, rc, or legacy release
     if: github.event_name == 'pull_request'
     permissions:
       contents: read
