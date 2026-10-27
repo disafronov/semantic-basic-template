@@ -5,7 +5,8 @@ drive automatic propagation to consumers.
 
 The shared `.github/workflows/semantic.yml` validates pull requests targeting
 `main`, optional `rc`, and legacy `release`, and runs semantic-release on pushes
-to those branches. 
+to those branches.
+
 For consumers that need a release-created push or tag to trigger downstream
 GitHub Actions workflows, configure `SEMANTIC_RELEASE_TOKEN` with a suitable
 personal access token and permissions. The workflow falls back to
