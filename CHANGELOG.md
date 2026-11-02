@@ -1,3 +1,16 @@
+## [3.0.0](https://github.com/disafronov/semantic-basic-template/compare/v2.4.0...v3.0.0) (2026-11-02)
+
+### ⚠ BREAKING CHANGES
+
+* Repositories using the legacy release branch must migrate
+to main as the stable release branch before adopting this workflow.
+
+Signed-off-by: Dmitrii Safronov <dhameoelin@gmail.com>
+
+### Features
+
+* remove legacy release branch support ([97cba50](https://github.com/disafronov/semantic-basic-template/commit/97cba50e756162aad7c5065b677abc17a9918501))
+
 ## [2.4.0](https://github.com/disafronov/semantic-basic-template/compare/v2.3.2...v2.4.0) (2026-11-02)
 
 ### Features
