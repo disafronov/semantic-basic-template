@@ -1,3 +1,9 @@
+## [2.4.0](https://github.com/disafronov/semantic-basic-template/compare/v2.3.2...v2.4.0) (2026-11-02)
+
+### Features
+
+* **ci:** allow selecting semantic-release image tag via repository variable ([a158c82](https://github.com/disafronov/semantic-basic-template/commit/a158c82b9c38c2497b136367de36fdf83d51c3d6))
+
 ## [2.3.2](https://github.com/disafronov/semantic-basic-template/compare/v2.3.1...v2.3.2) (2026-10-28)
 
 ### Code Refactoring
