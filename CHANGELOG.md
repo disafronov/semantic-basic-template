@@ -1,3 +1,9 @@
+## [3.0.1](https://github.com/disafronov/semantic-basic-template/compare/v3.0.0...v3.0.1) (2026-11-02)
+
+### Code Refactoring
+
+* sync from template v1.1.3 ([d61729b](https://github.com/disafronov/semantic-basic-template/commit/d61729bc89d0e3e4ca89f79c813ce76fe88aae65))
+
 ## [3.0.0](https://github.com/disafronov/semantic-basic-template/compare/v2.4.0...v3.0.0) (2026-11-02)
 
 ### ⚠ BREAKING CHANGES
