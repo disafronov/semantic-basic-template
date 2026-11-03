@@ -1,3 +1,9 @@
+## [3.1.0](https://github.com/disafronov/semantic-basic-template/compare/v3.0.2...v3.1.0) (2026-11-03)
+
+### Features
+
+* allow overriding semantic-release image ([caa3ffa](https://github.com/disafronov/semantic-basic-template/commit/caa3ffaa928f831457509addd9adb6c4cc928953))
+
 ## [3.0.2](https://github.com/disafronov/semantic-basic-template/compare/v3.0.1...v3.0.2) (2026-11-03)
 
 ### Bug Fixes
