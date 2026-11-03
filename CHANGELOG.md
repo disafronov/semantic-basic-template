@@ -1,3 +1,15 @@
+## [4.0.0](https://github.com/disafronov/semantic-basic-template/compare/v3.1.0...v4.0.0) (2026-11-03)
+
+### ⚠ BREAKING CHANGES
+
+* The distributed semantic workflow no longer automatically rebases open pull requests after a release on main. Consumers must update their branches explicitly when needed.
+
+Signed-off-by: [secure] <[secure]>
+
+### Code Refactoring
+
+* remove automatic post-release rebasing from semantic template ([d91c92e](https://github.com/disafronov/semantic-basic-template/commit/d91c92ec465df6134c4562e4ec7aaaac2b0295bf))
+
 ## [3.1.0](https://github.com/disafronov/semantic-basic-template/compare/v3.0.2...v3.1.0) (2026-11-03)
 
 ### Features
