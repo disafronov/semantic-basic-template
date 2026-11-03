@@ -1,3 +1,9 @@
+## [3.0.2](https://github.com/disafronov/semantic-basic-template/compare/v3.0.1...v3.0.2) (2026-11-03)
+
+### Bug Fixes
+
+* **ci:** require semantic release token ([564c025](https://github.com/disafronov/semantic-basic-template/commit/564c025a0b33030668b8c6895f2a8d4f97d7b1ce))
+
 ## [3.0.1](https://github.com/disafronov/semantic-basic-template/compare/v3.0.0...v3.0.1) (2026-11-02)
 
 ### Code Refactoring
