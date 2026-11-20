@@ -1,3 +1,9 @@
+## [4.0.3](https://github.com/disafronov/semantic-basic-template/compare/v4.0.2...v4.0.3) (2026-11-20)
+
+### Code Refactoring
+
+* Update upload-artifact action to version v7 ([1788898](https://github.com/disafronov/semantic-basic-template/commit/178889871a33ccceed82f60d8c12aca27952fdcb))
+
 ## [4.0.2](https://github.com/disafronov/semantic-basic-template/compare/v4.0.1...v4.0.2) (2026-11-20)
 
 ### Bug Fixes
