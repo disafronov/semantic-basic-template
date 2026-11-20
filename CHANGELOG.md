@@ -1,3 +1,9 @@
+## [4.0.2](https://github.com/disafronov/semantic-basic-template/compare/v4.0.1...v4.0.2) (2026-11-20)
+
+### Bug Fixes
+
+* inherit complete isolated release validation workflow ([fdfd319](https://github.com/disafronov/semantic-basic-template/commit/fdfd3196ebcbf8d0e9589b68089353c05e22e576))
+
 ## [4.0.1](https://github.com/disafronov/semantic-basic-template/compare/v4.0.0...v4.0.1) (2026-11-20)
 
 ### Bug Fixes
