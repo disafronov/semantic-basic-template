@@ -1,3 +1,9 @@
+## [4.0.1](https://github.com/disafronov/semantic-basic-template/compare/v4.0.0...v4.0.1) (2026-11-20)
+
+### Bug Fixes
+
+* validate PR release policy instead of exiting early ([9d21099](https://github.com/disafronov/semantic-basic-template/commit/9d210995aba3574a8a5c75fd1a8e979dc3cea910))
+
 ## [4.0.0](https://github.com/disafronov/semantic-basic-template/compare/v3.1.0...v4.0.0) (2026-11-03)
 
 ### ⚠ BREAKING CHANGES
