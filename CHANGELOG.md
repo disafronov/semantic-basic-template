@@ -1,3 +1,9 @@
+## [4.0.4](https://github.com/disafronov/semantic-basic-template/compare/v4.0.3...v4.0.4) (2026-11-23)
+
+### Bug Fixes
+
+* allow uv-managed Python execution during semantic-release ([da94eb9](https://github.com/disafronov/semantic-basic-template/commit/da94eb9707d490efe6e4f965761417b6cd7d5122))
+
 ## [4.0.3](https://github.com/disafronov/semantic-basic-template/compare/v4.0.2...v4.0.3) (2026-11-20)
 
 ### Code Refactoring
